@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include<set>
+#include <unordered_set>
 
 // You are provided this version of a DisjointSets class.
 // See below for the tasks to complete.
